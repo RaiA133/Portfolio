@@ -1,0 +1,207 @@
+body {
+    margin: 0;
+}
+
+.home {
+    background-image: url("assets/bg1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1580px;
+}
+
+.font-outfit {
+    font-family: 'Outfit', sans-serif;
+}
+
+.font-raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+.letter-space {
+    letter-spacing: 3px;
+}
+
+.hire {
+    appearance: none;
+    background-color: transparent;
+    border: 0.125em solid #1A1A1A;
+    border-radius: 0.9375em;
+    box-sizing: border-box;
+    color: #3B3B3B;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    margin-bottom: 200px;
+    min-height: 3.75em;
+    min-width: 0;
+    outline: none;
+    padding: 1em 2.3em;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    will-change: transform;
+}
+
+.hire:disabled {
+    pointer-events: none;
+}
+
+.hire:hover {
+    color: #fff;
+    background-color: #1A1A1A;
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+}
+
+.hire:active {
+    box-shadow: none;
+    transform: translateY(0);
+}
+
+.hire2 {
+    appearance: none;
+    background-color: transparent;
+    border: 0.125em solid #1A1A1A;
+    border-radius: 0.9375em;
+    box-sizing: border-box;
+    color: #3B3B3B;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    min-height: 3.75em;
+    min-width: 0;
+    outline: none;
+    padding: 1em 2.3em;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    will-change: transform;
+}
+
+.hire2:disabled {
+    pointer-events: none;
+}
+
+.hire2:hover {
+    color: #fff;
+    background-color: #1A1A1A;
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+}
+
+.hire2:active {
+    box-shadow: none;
+    transform: translateY(0);
+}
+
+.nav-link:hover {
+    transition: ease-in 1s;
+    text-decoration: underline;
+}
+
+.blur {
+    background: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(13px);
+    -webkit-backdrop-filter: blur(13px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.nav {
+    margin-top: 200px;
+}
+
+.img-fluid {
+    margin-top: -60px;
+    margin-left: 70px;
+}
+
+/* STRIPS infinite scroll */
+.strips {
+    display: flex;
+    justify-content: flex-start;
+    background-color: #1A1A1A;
+    overflow: hidden;
+}
+
+.strips-text {
+    color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff;
+    text-stroke-color: #fff;
+    white-space: nowrap;
+    padding: 0 0.5rem;
+    letter-spacing: 5px;
+    animation: move-rtl 15000ms linear infinite;
+}
+
+@keyframes move-rtl {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+/* end STRIPS infinite scroll */
+
+
+.poto2 {
+    border-radius: 50px;
+    background: #ffffff;
+    box-shadow: 20px 20px 63px #858585,
+        -20px -20px 63px #ffffff;
+}
+
+.project {
+    background-color: #D9D9D9;
+}
+
+.contact {
+    background-color: #2E2E2E;
+}
+
+
+   /* REPONSIVE */
+@media only screen and (max-width: 1400px) {
+    .position-absolute {
+        margin-top: 37px;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .position-absolute {
+        margin-top: 167px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .position-absolute {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 483px) {
+    .judul {
+        display: none;
+    }
+}
+
+/* END REPONSIVE */
