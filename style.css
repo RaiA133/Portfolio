@@ -162,6 +162,12 @@ body {
 
 /* end STRIPS infinite scroll */
 
+.sembunyi {
+    display: none;
+}
+.sembunyi:hover {
+    display: inline-block;
+}
 
 .poto2 {
     border-radius: 50px;
