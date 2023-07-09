@@ -35,7 +35,7 @@
 53C:\xampp\htdocs\Portfolio\node_modules\type-fest\ts41133333882533391546 1
 93C:\xampp\htdocs\Portfolio\node_modules\@swc\helpers\esm\_class_static_private_field_update.js133333882476846014 0
 96C:\xampp\htdocs\Portfolio\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\walk.cjs133333882511305634 0
-55C:\xampp\htdocs\Portfolio\dist\certificate.4f3af33b.png133333884866615977 0
+55C:\xampp\htdocs\Portfolio\dist\certificate.4f3af33b.png133333900229960326 0
 62C:\xampp\htdocs\Portfolio\node_modules\ordered-binary\index.js133333882527477436 0
 78C:\xampp\htdocs\Portfolio\node_modules\@swc\helpers\_\_iterable_to_array_limit133333882473854143 1
 94C:\xampp\htdocs\Portfolio\node_modules\@swc\helpers\cjs\_class_check_private_static_access.cjs133333882474982727 0
@@ -47,7 +47,7 @@
 81C:\xampp\htdocs\Portfolio\node_modules\@swc\helpers\_\_class_apply_descriptor_get133333882472836897 1
 70C:\xampp\htdocs\Portfolio\node_modules\source-map-js\lib\quick-sort.js133333882529973410 0
 88C:\xampp\htdocs\Portfolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133333882522615639 0
-30C:\xampp\htdocs\Portfolio\dist133333884870285495 1
+30C:\xampp\htdocs\Portfolio\dist133333900233540822 1
 95C:\xampp\htdocs\Portfolio\node_modules\caniuse-lite\data\features\same-site-cookie-attribute.js133333882492715663 0
 95C:\xampp\htdocs\Portfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\LICENSE133333882418835791 0
 70C:\xampp\htdocs\Portfolio\node_modules\domutils\lib\traversal.d.ts.map133333882515847884 0
@@ -77,7 +77,7 @@
 85C:\xampp\htdocs\Portfolio\node_modules\@parcel\optimizer-svgo\node_modules\css-select133333882423719630 1
 64C:\xampp\htdocs\Portfolio\node_modules\is-arrayish\.istanbul.yml133333882518710680 0
 102C:\xampp\htdocs\Portfolio\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133333882408803457 0
-38C:\xampp\htdocs\Portfolio\package.json133333882534326935 0
+38C:\xampp\htdocs\Portfolio\package.json133333901208857202 0
 78C:\xampp\htdocs\Portfolio\node_modules\css-tree\lib\definition-syntax\parse.js133333882507678226 0
 43C:\xampp\htdocs\Portfolio\node_modules\.bin133333882400574738 1
 75C:\xampp\htdocs\Portfolio\node_modules\svgo\plugins\removeElementsByAttr.js133333882531573627 0
@@ -121,7 +121,7 @@
 59C:\xampp\htdocs\Portfolio\node_modules\msgpackr-extract\bin133333882525404899 1
 108C:\xampp\htdocs\Portfolio\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\index.js133333882425804897 0
 59C:\xampp\htdocs\Portfolio\node_modules\electron-to-chromium133333882516306188 1
-54C:\xampp\htdocs\Portfolio\dist\pmiiuninus.e4f658c4.png133333884866543774 0
+54C:\xampp\htdocs\Portfolio\dist\pmiiuninus.e4f658c4.png133333900229631783 0
 46C:\xampp\htdocs\Portfolio\node_modules\@parcel133333882464866732 1
 52C:\xampp\htdocs\Portfolio\node_modules\dotenv-expand133333882515971304 1
 44C:\xampp\htdocs\Portfolio\node_modules\@lmdb133333882402465004 1
@@ -143,7 +143,7 @@
 75C:\xampp\htdocs\Portfolio\node_modules\@parcel\transformer-svg\package.json133333882462206699 0
 53C:\xampp\htdocs\Portfolio\node_modules\semver\LICENSE133333882529089558 0
 59C:\xampp\htdocs\Portfolio\node_modules\path-type\index.d.ts133333882527728271 0
-47C:\xampp\htdocs\Portfolio\dist\bg1.a9686693.png133333884866089900 0
+47C:\xampp\htdocs\Portfolio\dist\bg1.a9686693.png133333900229158045 0
 79C:\xampp\htdocs\Portfolio\node_modules\lmdb\node_modules\msgpackr\node-index.js133333882523677325 0
 85C:\xampp\htdocs\Portfolio\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133333882531664937 0
 68C:\xampp\htdocs\Portfolio\node_modules\@swc\helpers\lib\_inherits.js133333882478991895 0
@@ -370,7 +370,7 @@
 62C:\xampp\htdocs\Portfolio\node_modules\is-extglob\package.json133333882518859867 0
 48C:\xampp\htdocs\Portfolio\node_modules\js-tokens133333882519187843 1
 77C:\xampp\htdocs\Portfolio\node_modules\csso\cjs\restructure\prepare\index.cjs133333882510307064 0
-69C:\xampp\htdocs\Portfolio\dist\no watermark no-bg-resize.338f497e.png133333884866615977 0
+69C:\xampp\htdocs\Portfolio\dist\no watermark no-bg-resize.338f497e.png133333900229905222 0
 46C:\xampp\htdocs\Portfolio\node_modules\js-yaml133333882519702209 1
 68C:\xampp\htdocs\Portfolio\node_modules\json-parse-even-better-errors133333882519759455 1
 88C:\xampp\htdocs\Portfolio\node_modules\@swc\helpers\cjs\_possible_constructor_return.cjs133333882475830994 0
@@ -592,7 +592,7 @@
 68C:\xampp\htdocs\Portfolio\node_modules\type-fest\source\entries.d.ts133333882532992766 0
 76C:\xampp\htdocs\Portfolio\node_modules\css-tree\cjs\syntax\node\Operator.cjs133333882506652914 0
 78C:\xampp\htdocs\Portfolio\node_modules\caniuse-lite\data\features\png-alpha.js133333882492143205 0
-56C:\xampp\htdocs\Portfolio\dist\Pke-Almet-HD.013ab4d8.png133333884866174259 0
+56C:\xampp\htdocs\Portfolio\dist\Pke-Almet-HD.013ab4d8.png133333900229390470 0
 91C:\xampp\htdocs\Portfolio\node_modules\caniuse-lite\data\features\link-rel-modulepreload.js133333882490903460 0
 53C:\xampp\htdocs\Portfolio\node_modules\to-regex-range133333882532549581 1
 75C:\xampp\htdocs\Portfolio\node_modules\mdn-data\api\inheritance.schema.json133333882524993676 0
@@ -792,7 +792,7 @@
 85C:\xampp\htdocs\Portfolio\node_modules\csso\node_modules\mdn-data\css\properties.json133333882514396421 0
 93C:\xampp\htdocs\Portfolio\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h133333882523926289 0
 63C:\xampp\htdocs\Portfolio\node_modules\semver\ranges\outside.js133333882529653378 0
-49C:\xampp\htdocs\Portfolio\dist\index.66daa216.css133333884864489278 0
+49C:\xampp\htdocs\Portfolio\dist\index.66daa216.css133333900227053896 0
 83C:\xampp\htdocs\Portfolio\node_modules\lmdb\node_modules\msgpackr\dist\index.min.js133333882523475203 0
 63C:\xampp\htdocs\Portfolio\node_modules\utility-types\SUPPORT.md133333882533583191 0
 67C:\xampp\htdocs\Portfolio\node_modules\posthtml-parser\changelog.md133333882528178755 0
@@ -1760,7 +1760,7 @@
 69C:\xampp\htdocs\Portfolio\node_modules\locomotive-scroll\mconfig.json133333882524666111 0
 62C:\xampp\htdocs\Portfolio\node_modules\parent-module\readme.md133333882527686733 0
 80C:\xampp\htdocs\Portfolio\node_modules\@swc\helpers\lib\_wrap_async_generator.js133333882479712242 0
-54C:\xampp\htdocs\Portfolio\dist\desc compe.0fbf829e.png133333884866089900 0
+54C:\xampp\htdocs\Portfolio\dist\desc compe.0fbf829e.png133333900229158045 0
 63C:\xampp\htdocs\Portfolio\node_modules\ordered-binary\README.md133333882527396447 0
 84C:\xampp\htdocs\Portfolio\node_modules\@swc\helpers\_\_unsupported_iterable_to_array133333882474488235 1
 49C:\xampp\htdocs\Portfolio\node_modules\parcel\lib133333882527534843 1
@@ -2225,7 +2225,7 @@
 66C:\xampp\htdocs\Portfolio\node_modules\@parcel\packager-js\LICENSE133333882429588343 0
 89C:\xampp\htdocs\Portfolio\node_modules\lmdb\node_modules\msgpackr\dist\unpack-no-eval.cjs133333882523617534 0
 71C:\xampp\htdocs\Portfolio\node_modules\@swc\helpers\lib\_ts_decorate.js133333882479573586 0
-53C:\xampp\htdocs\Portfolio\dist\index.66daa216.css.map133333884864570068 0
+53C:\xampp\htdocs\Portfolio\dist\index.66daa216.css.map133333900227103868 0
 87C:\xampp\htdocs\Portfolio\node_modules\lmdb\node_modules\msgpackr\dist\index.min.js.map133333882523498025 0
 79C:\xampp\htdocs\Portfolio\node_modules\lmdb\node_modules\msgpackr\dist\node.cjs133333882523523228 0
 80C:\xampp\htdocs\Portfolio\node_modules\@swc\helpers\esm\_class_name_tdz_error.js133333882476620880 0
@@ -3301,7 +3301,7 @@
 63C:\xampp\htdocs\Portfolio\node_modules\csso\cjs\clean\utils.cjs133333882509929330 0
 101C:\xampp\htdocs\Portfolio\node_modules\abortcontroller-polyfill\dist\abortcontroller-polyfill-only.js133333882481810839 0
 86C:\xampp\htdocs\Portfolio\node_modules\css-select\node_modules\domutils\lib\helpers.js133333882503766081 0
-48C:\xampp\htdocs\Portfolio\dist\index.3d214d75.js133333884866721736 0
+48C:\xampp\htdocs\Portfolio\dist\index.3d214d75.js133333900229631783 0
 79C:\xampp\htdocs\Portfolio\node_modules\@swc\helpers\_\_ts_decorate\package.json133333882474405825 0
 57C:\xampp\htdocs\Portfolio\node_modules\css-what\readme.md133333882509744900 0
 60C:\xampp\htdocs\Portfolio\node_modules\css-what\lib\commonjs133333882509567033 1
@@ -3935,7 +3935,7 @@
 83C:\xampp\htdocs\Portfolio\node_modules\caniuse-lite\data\features\es6-generators.js133333882488924886 0
 70C:\xampp\htdocs\Portfolio\node_modules\caniuse-lite\data\regions\BA.js133333882495128945 0
 70C:\xampp\htdocs\Portfolio\node_modules\caniuse-lite\data\regions\BB.js133333882495164341 0
-52C:\xampp\htdocs\Portfolio\dist\index.3d214d75.js.map133333884866784412 0
+52C:\xampp\htdocs\Portfolio\dist\index.3d214d75.js.map133333900229714792 0
 70C:\xampp\htdocs\Portfolio\node_modules\caniuse-lite\data\regions\BD.js133333882495179424 0
 70C:\xampp\htdocs\Portfolio\node_modules\caniuse-lite\data\regions\BF.js133333882495207753 0
 80C:\xampp\htdocs\Portfolio\node_modules\@swc\helpers\_\_class_private_method_init133333882473253488 1
@@ -3996,7 +3996,7 @@
 70C:\xampp\htdocs\Portfolio\node_modules\caniuse-lite\data\regions\GR.js133333882496314317 0
 70C:\xampp\htdocs\Portfolio\node_modules\caniuse-lite\data\regions\GU.js133333882496353691 0
 70C:\xampp\htdocs\Portfolio\node_modules\caniuse-lite\data\regions\GW.js133333882496398747 0
-53C:\xampp\htdocs\Portfolio\dist\index.3a01df49.css.map133333884864570068 0
+53C:\xampp\htdocs\Portfolio\dist\index.3a01df49.css.map133333900227103868 0
 91C:\xampp\htdocs\Portfolio\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace133333882426725649 1
 70C:\xampp\htdocs\Portfolio\node_modules\caniuse-lite\data\regions\GY.js133333882496415077 0
 70C:\xampp\htdocs\Portfolio\node_modules\caniuse-lite\data\regions\HN.js133333882496431629 0
@@ -5349,7 +5349,7 @@
 107C:\xampp\htdocs\Portfolio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\sortDefsChildren.js133333882428574130 0
 107C:\xampp\htdocs\Portfolio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_applyTransforms.js133333882427807160 0
 103C:\xampp\htdocs\Portfolio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_collections.js133333882427832242 0
-59C:\xampp\htdocs\Portfolio\dist\pmiiftekuninus1.9f818d30.png133333884866174259 0
+59C:\xampp\htdocs\Portfolio\dist\pmiiftekuninus1.9f818d30.png133333900229390470 0
 96C:\xampp\htdocs\Portfolio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_path.js133333882427852695 0
 102C:\xampp\htdocs\Portfolio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_transforms.js133333882427866638 0
 96C:\xampp\htdocs\Portfolio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\css-tools.js133333882427505823 0
@@ -6064,18 +6064,18 @@
 54C:\xampp\htdocs\Portfolio\node_modules\.bin\semver.ps1133333882400504662 0
 70C:\xampp\htdocs\Portfolio\node_modules\.bin\update-browserslist-db.cmd133333882400574738 0
 70C:\xampp\htdocs\Portfolio\node_modules\.bin\update-browserslist-db.ps1133333882400574738 0
-51C:\xampp\htdocs\Portfolio\dist\3D Form.95d9483a.gif133333884870207211 0
-51C:\xampp\htdocs\Portfolio\dist\devwork.8f58fbcc.png133333884866583858 0
+51C:\xampp\htdocs\Portfolio\dist\3D Form.95d9483a.gif133333900233504598 0
+51C:\xampp\htdocs\Portfolio\dist\devwork.8f58fbcc.png133333900229714792 0
 60C:\xampp\htdocs\Portfolio\dist\devwork.8f58fbcc.png.16424.1o133333882398613040 0
-49C:\xampp\htdocs\Portfolio\dist\index.3a01df49.css133333884864489278 0
-49C:\xampp\htdocs\Portfolio\dist\index.47ca9330.css133333884864408851 0
-53C:\xampp\htdocs\Portfolio\dist\index.47ca9330.css.map133333884864570068 0
-41C:\xampp\htdocs\Portfolio\dist\index.html133333884866044813 0
-55C:\xampp\htdocs\Portfolio\dist\merchandise.fd4ea9f9.jpg133333884866202108 0
+49C:\xampp\htdocs\Portfolio\dist\index.3a01df49.css133333900227053896 0
+49C:\xampp\htdocs\Portfolio\dist\index.47ca9330.css133333900226942217 0
+53C:\xampp\htdocs\Portfolio\dist\index.47ca9330.css.map133333900227103868 0
+41C:\xampp\htdocs\Portfolio\dist\index.html133333900228908692 0
+55C:\xampp\htdocs\Portfolio\dist\merchandise.fd4ea9f9.jpg133333900229435947 0
 78C:\xampp\htdocs\Portfolio\dist\no watermark no-bg-resize.338f497e.png.16424.1q133333882399344125 0
 65C:\xampp\htdocs\Portfolio\dist\Pke-Almet-HD.013ab4d8.png.16424.1g133333882398017899 0
 63C:\xampp\htdocs\Portfolio\dist\pmiiuninus.e4f658c4.png.16424.1n133333882399681530 0
-50C:\xampp\htdocs\Portfolio\dist\winner.0b5744b3.png133333884866174259 0
+50C:\xampp\htdocs\Portfolio\dist\winner.0b5744b3.png133333900229390470 0
 38C:\xampp\htdocs\Portfolio\css\base.css133333882396970740 0
 39C:\xampp\htdocs\Portfolio\css\main.scss133333882396989625 0
 40C:\xampp\htdocs\Portfolio\assets\bg1.png133333721660000000 0
