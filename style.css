@@ -225,11 +225,24 @@ body {
     width: 324px;
 }
 
+.poto2 {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    margin-left: 200px;
+}
+
+.about-me {
+    margin-bottom: 200px;
+}
 
    /* REPONSIVE */
 @media only screen and (max-width: 1400px) {
     .position-absolute {
         margin-top: -145px;
+    }
+    .poto2 {
+        margin-left: 140px;
     }
 }
 
@@ -237,11 +250,24 @@ body {
     .position-absolute {
         margin-top: -145px;
     }
+    .poto2 {
+        margin-left: 70px;
+    }
+    .about-me {
+        margin-bottom: -80px;
+    }
 }
 
 @media only screen and (max-width: 992px) {
     .position-absolute {
         display: none;
+    }
+    .poto2 {
+        position: relative;
+        margin-left: 0;
+    }
+    #project{
+        position: absoute;
     }
 }
 @media only screen and (max-width: 768px) {
@@ -274,6 +300,7 @@ body {
 
 
 /* ANIMATE (ANIMASI SCROLLING) */
+
 
 .hidden {
     opacity: 0;
