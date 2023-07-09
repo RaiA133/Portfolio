@@ -219,6 +219,11 @@ body {
     margin-left: -110px;
 }
 
+/* SETIAP PROJEK SEKARANG BISA BUAT ROW BARU KEBAWAH KARNA ADA MASK WIDTH */
+.width-project {
+    width: 324px;
+}
+
 
    /* REPONSIVE */
 @media only screen and (max-width: 1400px) {
