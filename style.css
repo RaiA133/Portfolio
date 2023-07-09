@@ -244,9 +244,17 @@ body {
     }
 }
 
+@media only screen and (max-width: 576px) {
+    .width-project {
+        width: 100%;
+    }
+
 @media only screen and (max-width: 483px) {
     .judul {
         display: none;
+    }
+    .width-project {
+        width: 100%;
     }
 }
 
