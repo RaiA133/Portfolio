@@ -162,6 +162,7 @@ body {
 
 /* end STRIPS infinite scroll */
 
+
 .sembunyi {
     display: none;
 }
@@ -306,5 +307,16 @@ body {
         transition-delay: 800ms;
     }
     /* END Delay animasi list project */
+    
+    /* Delay animasi list project */
+    .delay-about:nth-child(3) {
+        transition: all 0.5s;
+        transition-delay: 500ms;
+    }
+    .delay-about:nth-child(4) {
+        transition: all 0.5s;
+        transition-delay: 1000ms;
+    }
+    
 
 /* END ANIMATE (ANIMASI SCROLLING) */

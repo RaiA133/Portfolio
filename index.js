@@ -14,3 +14,10 @@ hiddenElements.forEach((el) => observer.observe(el));
 
 const hiddenElements_left = document.querySelectorAll('.hidden-left');
 hiddenElements_left.forEach((el) => observer.observe(el));
+
+let prlx_y = document.getElementById('prlx_y');
+
+window.addEventListener('scroll', () => {
+    let value = window.scrollY;
+    prlx_y.style.marginTop = value * 0.2 + 'px';
+})
