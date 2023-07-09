@@ -1,0 +1,246 @@
+body {
+  margin: 0;
+}
+
+.home {
+  background-image: url("bg1.a9686693.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 1580px;
+}
+
+.font-outfit {
+  font-family: Outfit, sans-serif;
+}
+
+.font-raleway {
+  font-family: Raleway, sans-serif;
+}
+
+.letter-space {
+  letter-spacing: 3px;
+}
+
+.hire {
+  appearance: none;
+  box-sizing: border-box;
+  color: #3b3b3b;
+  cursor: pointer;
+  text-align: center;
+  -webkit-user-select: none;
+  user-select: none;
+  touch-action: manipulation;
+  will-change: transform;
+  background-color: #0000;
+  border: .125em solid #1a1a1a;
+  border-radius: .9375em;
+  outline: none;
+  min-width: 0;
+  min-height: 3.75em;
+  margin: 0 0 200px;
+  padding: 1em 2.3em;
+  font-family: Roobert, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration: none;
+  transition: all .3s cubic-bezier(.23, 1, .32, 1);
+  display: inline-block;
+}
+
+.hire:disabled {
+  pointer-events: none;
+}
+
+.hire:hover {
+  color: #fff;
+  background-color: #1a1a1a;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 15px #00000040;
+}
+
+.hire:active {
+  box-shadow: none;
+  transform: translateY(0);
+}
+
+.hire2 {
+  appearance: none;
+  box-sizing: border-box;
+  color: #3b3b3b;
+  cursor: pointer;
+  text-align: center;
+  -webkit-user-select: none;
+  user-select: none;
+  touch-action: manipulation;
+  will-change: transform;
+  background-color: #0000;
+  border: .125em solid #1a1a1a;
+  border-radius: .9375em;
+  outline: none;
+  min-width: 0;
+  min-height: 3.75em;
+  margin: 0;
+  padding: 1em 2.3em;
+  font-family: Roobert, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration: none;
+  transition: all .3s cubic-bezier(.23, 1, .32, 1);
+  display: inline-block;
+}
+
+.hire2:disabled {
+  pointer-events: none;
+}
+
+.hire2:hover {
+  color: #fff;
+  background-color: #1a1a1a;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 15px #00000040;
+}
+
+.hire2:active {
+  box-shadow: none;
+  transform: translateY(0);
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+  transition: all 1s ease-in;
+}
+
+.blur {
+  -webkit-backdrop-filter: blur(13px);
+  background: #ffffff80;
+  border: 1px solid #ffffff2e;
+  border-radius: 10px;
+  box-shadow: 0 8px 32px #1f26875e;
+}
+
+.nav {
+  margin-top: 200px;
+}
+
+.img-fluid {
+  margin-top: -30px;
+  margin-left: 70px;
+}
+
+.strips {
+  background-color: #1a1a1a;
+  justify-content: flex-start;
+  display: flex;
+  overflow: hidden;
+}
+
+.strips-text {
+  color: #0000;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff;
+  text-stroke-color: #fff;
+  white-space: nowrap;
+  letter-spacing: 5px;
+  padding: 0 .5rem;
+  animation: 15s linear infinite move-rtl;
+}
+
+@keyframes move-rtl {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.sembunyi {
+  display: none;
+}
+
+.sembunyi:hover {
+  display: inline-block;
+}
+
+.poto2 {
+  background: #fff;
+  border-radius: 50px;
+  box-shadow: 20px 20px 63px #858585, -20px -20px 63px #fff;
+}
+
+.project {
+  background-color: #d9d9d9;
+}
+
+.contact {
+  background-color: #2e2e2e;
+}
+
+.hire {
+  margin-bottom: 200px;
+}
+
+.card {
+  background-color: #242424;
+}
+
+.project1:hover, .project2:hover, .project3:hover {
+  mix-blend-mode: overlay;
+}
+
+.card-body {
+  background-color: #fff;
+}
+
+.tengah1 {
+  margin-top: -325px;
+  margin-left: -135px;
+}
+
+.tengah2 {
+  margin-top: -490px;
+  margin-left: -125px;
+}
+
+.tengah3 {
+  margin-top: -180px;
+  margin-left: -60px;
+}
+
+.tengah4 {
+  margin-top: -180px;
+  margin-left: -110px;
+}
+
+.width-project {
+  width: 324px;
+}
+
+@media only screen and (width <= 1400px) {
+  .position-absolute {
+    margin-top: 37px;
+  }
+}
+
+@media only screen and (width <= 1200px) {
+  .position-absolute {
+    margin-top: 167px;
+  }
+}
+
+@media only screen and (width <= 992px) {
+  .position-absolute {
+    display: none;
+  }
+}
+
+@media only screen and (width <= 483px) {
+  .judul {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */
