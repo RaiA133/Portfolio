@@ -198,17 +198,25 @@ body {
     background-color: white;
 }
 
+/* PMIIFTEKUNIUS */
 .tengah1 {
-    margin-top: -110px;
+    margin-top: -325px;
     margin-left: -135px;
 }
+/* 3D PARALAX FORM */
 .tengah2 {
-    margin-top: -350px;
+    margin-top: -490px;
     margin-left: -125px;
 }
+/* DEVWORK */
 .tengah3 {
     margin-top: -180px;
     margin-left: -60px;
+}
+/* PMIIUNINUS */
+.tengah4 {
+    margin-top: -180px;
+    margin-left: -110px;
 }
 
 
