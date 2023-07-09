@@ -200,12 +200,12 @@ body {
 
 /* PMIIFTEKUNIUS */
 .tengah1 {
-    margin-top: -325px;
+    margin-top: -130px;
     margin-left: -135px;
 }
 /* 3D PARALAX FORM */
 .tengah2 {
-    margin-top: -490px;
+    margin-top: -140px;
     margin-left: -125px;
 }
 /* DEVWORK */
@@ -228,13 +228,13 @@ body {
    /* REPONSIVE */
 @media only screen and (max-width: 1400px) {
     .position-absolute {
-        margin-top: 37px;
+        margin-top: -145px;
     }
 }
 
 @media only screen and (max-width: 1200px) {
     .position-absolute {
-        margin-top: 167px;
+        margin-top: -145px;
     }
 }
 
@@ -243,10 +243,29 @@ body {
         display: none;
     }
 }
+@media only screen and (max-width: 768px) {
+    .position-absolute {
+        display: none;
+    }
+    .width-project {
+        width: 100%;
+    }
+}
 
+@media only screen and (max-width: 576px) {
+    .position-absolute {
+        display: none;
+    }
+    .width-project {
+        width: 100%;
+    }
+}
 @media only screen and (max-width: 483px) {
     .judul {
         display: none;
+    }
+    .width-project {
+        width: 100%;
     }
 }
 
