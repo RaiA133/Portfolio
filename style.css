@@ -244,6 +244,9 @@ body {
     .poto2 {
         margin-left: 140px;
     }
+    .pp {
+        margin-top: 150px;
+    }
 }
 
 @media only screen and (max-width: 1200px) {
@@ -255,6 +258,9 @@ body {
     }
     .about-me {
         margin-bottom: -80px;
+    }
+    .pp {
+        margin-top: 360px;
     }
 }
 
