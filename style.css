@@ -6,8 +6,9 @@ body {
     background-image: url("assets/bg1.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1580px;
+    background-size: cover;
 }
+
 
 .font-outfit {
     font-family: 'Outfit', sans-serif;
@@ -222,7 +223,7 @@ body {
 
 /* SETIAP PROJEK SEKARANG BISA BUAT ROW BARU KEBAWAH KARNA ADA MASK WIDTH */
 .width-project {
-    width: 324px;
+    width: 424px;
 }
 
 .poto2 {
